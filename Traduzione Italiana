@@ -48,7 +48,7 @@ msgstr "Visualizza sulla mappa"
 #v1.13.11
 msgctxt "bulk_edit_all_stations"
 msgid "Bulk edit all stations"
-msgstr "Edita tutte le stazioni"
+msgstr "Modifica tutte le stazioni"
 
 #v1.13.11
 msgctxt "editor_new_plat_extension"
@@ -173,7 +173,7 @@ msgstr "Passeggeri:"
 #v1.13.11
 msgctxt "perf_editor_holds_rebuild"
 msgid "Hold updates when paused in editors"
-msgstr "Tenere gli aggiornamenti in pausa in editor"
+msgstr "Tenere gli aggiornamenti in pausa in modifica"
 
 #v1.13.11
 msgctxt "rebuild_demand_stalled_tp"
@@ -1433,192 +1433,192 @@ msgstr "Ruotare:"
 #v1.5.41
 msgctxt "constraint_xform_rotate_tip"
 msgid "Rotate track end:"
-msgstr "Rotar fin de vía:"
+msgstr "Ruotare estremità del binario:"
 
 #v1.5.41
 msgctxt "constraint_xform_translate"
 msgid "Translate:"
-msgstr "Mover:"
+msgstr "Spostare:"
 
 #v1.5.41
 msgctxt "constraints_bulk_editor"
 msgid "Bulk editor"
-msgstr "Editor en grupo"
+msgstr "Modifica collettiva"
 
 #v1.4.15
 msgctxt "constraints_editor"
 msgid "Track properties"
-msgstr "Propiedades de vía"
+msgstr "Propietà del binario"
 
 #v1.4.15
 msgctxt "construct_no_bps"
 msgid "There are no pending blueprints to build"
-msgstr "No hay planos pendientes de construcción"
+msgstr "Non ci sono progetti in sospeso da costruire"
 
 #v1.1.31
 msgctxt "construction_conflicts_cash"
 msgid "Not enough money for construction"
-msgstr "No hay dinero suficiente para la construcción"
+msgstr "Non hai abbastanza soldi per la costruzione"
 
 #v1.1.31
 msgctxt "construction_conflicts_error"
 msgid "Conflicts block construction"
-msgstr "Hay conflictos bloqueando la construcción"
+msgstr "Conflitti bloccano la costruzione"
 
 #v1.1.37
 msgctxt "continue_game"
 msgid "Continue game"
-msgstr "Continuar partida"
+msgstr "Continua la partita"
 
 #v1.4.15
 msgctxt "copied_from_coll"
 msgid "Copied! Paste with Ctrl-V"
-msgstr "Copiado! Pega con Ctrl-V"
+msgstr "Copia! Incolla con Ctrl-V"
 
 #v1.1.31
 msgctxt "copy"
 msgid "Copy"
-msgstr "Copiar"
+msgstr "Copia"
 
 #v1.1.31
 msgctxt "credits"
 msgid "Credits"
-msgstr "Créditos"
+msgstr "Crediti"
 
 #v1.1.31
 msgctxt "credits_acknowledgments"
 msgid "Acknowledgments"
-msgstr "Licencias"
+msgstr "Riconoscimenti"
 
 #v1.1.31
 msgctxt "credits_art"
 msgid "Art"
-msgstr "Ilustración"
+msgstr "Illustrazione"
 
 #v1.1.31
 msgctxt "credits_programming"
 msgid "Programming and design"
-msgstr "Programación y diseño"
+msgstr "Programmato e disegnato"
 
 #v1.1.31
 msgctxt "credits_thanks"
 msgid "Thanks"
-msgstr "Agradecimientos"
+msgstr "Ringraziamenti"
 
 #v1.1.31
 msgctxt "crossings_n_0"
 msgid "0 crossings"
-msgstr "0 cruces"
+msgstr "0 attraversamenti"
 
 #v1.1.31
 msgctxt "crossings_n_1"
 msgid "1 crossing"
-msgstr "1 cruce"
+msgstr "1 attraversamento"
 
 #v1.1.31
 msgctxt "crossings_n_many"
 msgid "%d crossings"
-msgstr "%d cruces"
+msgstr "%d attraversamenti"
 
 #v1.1.31
 msgctxt "default_han_font"
 msgid "Default Han font:"
-msgstr "Fuente Han predet.:"
+msgstr "Carattere Han predefinito:"
 
 #v1.1.31
 msgctxt "default_han_font_chi"
 msgid "Simplified Chinese"
-msgstr "Chino simplificado"
+msgstr "Cinese semplificato"
 
 #v1.1.31
 msgctxt "default_han_font_jpn"
 msgid "Japanese"
-msgstr "Japonés"
+msgstr "Giapponese"
 
 #v1.1.31
 msgctxt "default_han_font_kor"
 msgid "Korean"
-msgstr "Koreano"
+msgstr "Coreano"
 
 #v1.1.31
 msgctxt "default_han_font_zho"
 msgid "Traditional Chinese"
-msgstr "Chino tradicional"
+msgstr "Cinese Tradizionale"
 
 #v1.1.31
 msgctxt "default_train_name"
 msgid "Train {}"
-msgstr "Tren {}"
+msgstr "Treni {}"
 
 #v1.4.15
 msgctxt "default_user_label"
 msgid "Edit me"
-msgstr "Edítame"
+msgstr "Edítami"
 
 #v1.4.15
 msgctxt "delete_clip"
 msgid "Delete clip"
-msgstr "Borrar clip"
+msgstr "Clip eliminata"
 
 #v1.4.22
 msgctxt "delete_collection"
 msgid "Delete collection"
-msgstr "Borrar colección"
+msgstr "Eliminare raccolta"
 
 #v1.1.37
 msgctxt "delete_game_tooltip"
 msgid "Move selected game to the trash bin"
-msgstr "Mover la partida guardada a la papelera"
+msgstr "Sposta il gioco selezionato nel cestino"
 
 #v1.1.58
 msgctxt "delete_line"
 msgid "Delete line"
-msgstr "Borrar línea"
+msgstr "Eliminare linea"
 
 #v1.1.72
 msgctxt "delete_line_sell_trains"
 msgid "Delete and sell trains"
-msgstr "Borrar y vender trenes"
+msgstr "Eliminare e vendere i treni"
 
 #v1.6.13
 msgctxt "delete_only_bp"
 msgid "Delete only blueprints"
-msgstr "Borrar solo planos"
+msgstr "Eliminare solo i progetti"
 
 #v1.4.15
 msgctxt "delete_tracks"
 msgid "Delete objects"
-msgstr "Borrar objetos"
+msgstr "Eliminare oggetti"
 
 #v1.12.11
 msgctxt "demand_clone"
 msgid "Clone demand curve"
-msgstr "Clonar curva de demanda"
+msgstr "Clonare la domanda di curva"
 
 #v1.12.11
 msgctxt "demand_curve_disabled"
 msgid "<Disabled>"
-msgstr "<Desactivada>"
+msgstr "<Disattivata>"
 
 #v1.12.11
 msgctxt "demand_default_name"
 msgid "Population"
-msgstr "Población"
+msgstr "Popolazione"
 
 #v1.12.11
 msgctxt "demand_delete"
 msgid "Delete selected demand curve"
-msgstr "Borrar curva de demanda seleccionada"
+msgstr "Eliminare la curva di domanda selezionata"
 
 #v1.12.11
 msgctxt "demand_editor_focus_dest"
 msgid "Destination"
-msgstr "Destino"
+msgstr "Destinazione"
 
 #v1.12.11
 msgctxt "demand_editor_focus_distance"
 msgid "Distance"
-msgstr "Distancia"
+msgstr "Distanza"
 
 #v1.12.11
 msgctxt "demand_editor_focus_info"
@@ -1628,7 +1628,7 @@ msgstr "Info"
 #v1.12.11
 msgctxt "demand_editor_focus_origin"
 msgid "Origin"
-msgstr "Origen"
+msgstr "Origine"
 
 #v1.12.11
 msgctxt "demand_editor_focus_range0"
@@ -1638,357 +1638,357 @@ msgstr "0 km a 95 km"
 #v1.12.11
 msgctxt "demand_editor_title"
 msgid "Demand curves editor"
-msgstr "Editor de curvas de demanda"
+msgstr "Modifica domanda curva"
 
 #v1.12.11
 msgctxt "demand_export"
 msgid "Export to TSV file"
-msgstr "Exportar a fichero TSV"
+msgstr "Esportare a file TSV"
 
 #v1.12.11
 msgctxt "demand_import_new"
 msgid "Import new demand curve from TSV file"
-msgstr "Importar nueva curva de demanda de fichero TSV"
+msgstr "Importare nuova curva di domanda a file TSV"
 
 #v1.12.11
 msgctxt "demand_import_replace"
 msgid "Replace with curve from TSV file"
-msgstr "Remplazar curva de demanda con fichero TSV"
+msgstr "Rimpiazzare curva di domanda con file TSV"
 
 #v1.12.11
 msgctxt "demand_info_file_ops"
 msgid "Export and replace"
-msgstr "Exportar y reemplazar"
+msgstr "Esportare e rimpiazzare"
 
 #v1.12.11
 msgctxt "demand_info_move_pois"
 msgid "Bulk change POIs into a different curve"
-msgstr "Cambiar todos los POIs a una curva diferente"
+msgstr "Modifica in blocco dei POI in una curva diversa"
 
 #v1.12.11
 msgctxt "demand_info_move_pois_but"
 msgid "Change all POIs"
-msgstr "Cambiar todos los POIs"
+msgstr "Cambia tutte le POI"
 
 #v1.12.11
 msgctxt "demand_info_move_pois_label"
 msgid "Change to:"
-msgstr "Cambiar a:"
+msgstr "Cambiare a:"
 
 #v1.12.11
 msgctxt "demand_info_name"
 msgid "Name:"
-msgstr "Nombre:"
+msgstr "Nome:"
 
 #v1.12.11
 msgctxt "demand_info_poi"
 msgid "Points of interest:"
-msgstr "Punto de interés:"
+msgstr "Punto di interesse:"
 
 #v1.12.11
 msgctxt "demand_info_pop"
 msgid "Population:"
-msgstr "Población:"
+msgstr "Popolazione:"
 
 #v1.12.11
 msgctxt "demand_pax_spawn"
 msgid "{} new pax/min."
-msgstr "{} nuevos pax/min."
+msgstr "{} nuovi pax/min."
 
 #v1.12.11
 msgctxt "demand_rebuild_tp"
 msgid "Rebuilding demand data..."
-msgstr "Reconstruyendo datos de demanda..."
+msgstr "Ricostruendo dati della domanda..."
 
 #v1.12.11
 msgctxt "demand_replace_default"
 msgid "Replace with default curve"
-msgstr "Reemplazar con curva por defecto"
+msgstr "Rimpiazza con curva per difetto"
 
 #v1.12.11
 msgctxt "demand_replace_file"
 msgid "Replace from TSV file"
-msgstr "Reemplazar con fichero TSV"
+msgstr "Rimpiazza con file TSV"
 
 #v1.12.11
 msgctxt "demand_time_copy_day"
 msgid "Copy day"
-msgstr "Copiar día"
+msgstr "Copia giorno"
 
 #v1.12.11
 msgctxt "demand_time_paste_day"
 msgid "Paste day"
-msgstr "Pegar día"
+msgstr "Incolla giorno"
 
 #v1.12.11
 msgctxt "demand_time_set_0"
 msgid "All 0%"
-msgstr "Todo 0%"
+msgstr "Tutto 0%"
 
 #v1.12.11
 msgctxt "demand_time_set_100"
 msgid "All 100%"
-msgstr "Todo 100%"
+msgstr "Tutto 100%"
 
 #v1.9.17
 msgctxt "dep_grp_destination"
 msgid "Destination"
-msgstr "Destino"
+msgstr "Destinazione"
 
 #v1.9.17
 msgctxt "dep_grp_line"
 msgid "Line"
-msgstr "Línea"
+msgstr "Linea"
 
 #v1.9.17
 msgctxt "dep_grp_next_stop"
 msgid "Next stop"
-msgstr "Siguiente parada"
+msgstr "Prossima fermata"
 
 #v1.9.17
 msgctxt "dep_grp_train"
 msgid "Train"
-msgstr "Tren"
+msgstr "Treno"
 
 #v1.9.17
 msgctxt "dep_late"
 msgid "Max late"
-msgstr "Retraso max"
+msgstr "Ritardo massimo"
 
 #v1.9.17
 msgctxt "dep_sched"
 msgid "Scheduled"
-msgstr "Por horario"
+msgstr "Programmato"
 
 #v1.2.29
 msgctxt "depth_layer_n"
 msgid "Depth {}"
-msgstr "Profundidad {}"
+msgstr "Profondità {}"
 
 #v1.1.31
 msgctxt "description"
 msgid "Description:"
-msgstr "Descripción:"
+msgstr "Descrizione:"
 
 #v1.9.17
 msgctxt "destinations"
 msgid "Destinations"
-msgstr "Destinos"
+msgstr "Destinazione"
 
 #v1.1.31
 msgctxt "disabled"
 msgid "Disabled"
-msgstr "Desactivado"
+msgstr "Disattivato"
 
 #v1.1.31
 msgctxt "display_mode"
 msgid "Mode:"
-msgstr "Modo:"
+msgstr "Modalità:"
 
 #v1.1.31
 msgctxt "display_mode_exclusive_fullscreen"
 msgid "Exclusive fullscreen"
-msgstr "Pantalla completa excl."
+msgstr "Schermo intero"
 
 #v1.1.31
 msgctxt "display_mode_windowed"
 msgid "Windowed"
-msgstr "Ventana"
+msgstr "Finestra"
 
 #v1.1.31
 msgctxt "display_mode_windowed_fullscreen"
 msgid "Windowed fullscreen"
-msgstr "Ventana pantalla completa"
+msgstr "Finestra schermo intero"
 
 #v1.1.31
 msgctxt "display_screen"
 msgid "Display:"
-msgstr "Monitor:"
+msgstr "Schermo:"
 
 #v1.1.31
 msgctxt "display_screen_leave_alone"
 msgid "Do not set"
-msgstr "No cambiar"
+msgstr "Non cambiare"
 
 #v1.1.31
 msgctxt "done"
 msgid "Done"
-msgstr "Hecho"
+msgstr "Fatto"
 
 #v1.4.15
 msgctxt "edit_clip_name"
 msgid "Edit clip name"
-msgstr "Editar nombre del clip"
+msgstr "Modifica nome della clip"
 
 #v1.4.22
 msgctxt "edit_collection_name"
 msgid "Edit collection name"
-msgstr "Editar nombre de colección"
+msgstr "Modifica nome della raccolta"
 
 #v1.2.22
 msgctxt "editor_add"
 msgid "Append to tracks or create new ones"
-msgstr "Añadir a vías o crear nuevas vías"
+msgstr "Aggiungi binari o creane di nuovi"
 
 #v1.8.24
 msgctxt "editor_branch_append"
 msgid "Start or merge branches when pointing on top of existing tracks"
-msgstr "Empezar o unir ramas al mover el cursor sobre las vías"
+msgstr "Avvia o unisci i rami quando punti sopra i binari esistenti"
 
 #v1.4.15
 msgctxt "editor_building"
 msgid "Create new buildings"
-msgstr "Crear nuevos edificios"
+msgstr "Crea nuovi edifici"
 
 #v1.2.22
 msgctxt "editor_edit_signal"
 msgid "Move, delete and edit signals"
-msgstr "Mover, borrar y editar señales"
+msgstr "Muovi, elimina e modifica segnali"
 
 #v1.2.22
 msgctxt "editor_move"
 msgid "Move, delete and edit tracks"
-msgstr "Mover, borrar y editar vías"
+msgstr "Muovi, elimina e modifica binari"
 
 #v1.2.22
 msgctxt "editor_new_signal"
 msgid "Create new signals"
-msgstr "Crear nuevas señales"
+msgstr "Crea nuovi segnali"
 
 #v1.4.15
 msgctxt "editor_pick_building_parent_left"
 msgid "Click a control point to make it the building parent"
-msgstr "Haz click en un nodo de control de vía para mantener el edificio pegado a la misma"
+msgstr "Clicca in un punto di controllo per rendere l'edificio di riferimento"
 
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_esc"
 msgid "Esc to cancel picking"
-msgstr "Esc para cancelar elección"
+msgstr "Esc per annullare la raccolta"
 
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_left"
 msgid "Click a control point to make it the constraint parent"
-msgstr "Click en punto de control para hacerlo el padre de la restricción"
+msgstr "Clicca in un punto di controllo per renderlo la costruzione di riferimento"
 
 #v1.12.11
 msgctxt "editor_poi"
 msgid "Create new points of interest and signs"
-msgstr "Crear nuevos puntos de interés y signos"
+msgstr "Crea nuovi punti di interesse e segnali"
 
 #v1.6.13
 msgctxt "editor_sat_building_tape"
 msgid "Building tape"
-msgstr "Cinta de edificio"
+msgstr "Nastro da costruzione"
 
 #v1.6.13
 msgctxt "editor_sat_parallel_tape"
 msgid "Parallel track tape"
-msgstr "Cinta paralela"
+msgstr "Nastro parallelo"
 
 #v1.6.13
 msgctxt "editor_sat_promote_station"
 msgid "Promote tracks into station platforms"
-msgstr "Convertir en andén"
+msgstr "Promuovere i binari nelle piattaforme delle stazioni"
 
 #v1.6.13
 msgctxt "editor_sat_split"
 msgid "Split tracks"
-msgstr "Partir la vía"
+msgstr "Dividi binari"
 
 #v1.6.13
 msgctxt "editor_sat_track_tape"
 msgid "Track tape"
-msgstr "Cinta de vía"
+msgstr "Nastro di tracciamento"
 
 #v1.9.17
 msgctxt "editor_sel_only_buildings"
 msgid "Keep only buildings in the selection"
-msgstr "Mantener solo los edificios en la selección"
+msgstr "Mantieni solo gli edifici nella selezione"
 
 #v1.9.17
 msgctxt "editor_sel_only_child_tracks"
 msgid "Keep only parallel child tracks in the selection"
-msgstr "Mantener solo las vías paralelas hijas en la selección"
+msgstr "Mantieni solo le vie parallele dei binari nella selezione"
 
 #v1.9.17
 msgctxt "editor_sel_only_parent_tracks"
 msgid "Keep only parallel parent tracks in the selection"
-msgstr "Mantener solo las vías paralelas padres en la selección"
+msgstr "Mantieni solo le vie parallele principali nella selezione"
 
 #v1.9.17
 msgctxt "editor_sel_only_tracks"
 msgid "Keep only tracks in the selection"
-msgstr "Mantener solo las vías en la selección"
+msgstr "Mantieni solo le vie nella selezione"
 
 #v1.5.31
 msgctxt "editor_select_alt_signal"
 msgid "Click signal controls to set a signal as the secondary path signal for the stop"
-msgstr "Selecciona una señal para asignarla como el discriminador de andén"
+msgstr "Clicca sui comandi del segnale per impostare come segnale di percorso secondario per l'arresto"
 
 #v1.9.17
 msgctxt "editor_shapemode_full"
 msgid "Full shapes: tracks are shaped using line segments, circle arcs and clothoids"
-msgstr "Formas completas: las vías se trazan con segmentos, arcos y clotoides"
+msgstr "Forme complete: i binari sono modellati utilizzando segmenti di linea, archi circolari e clothoids"
 
 #v1.9.17
 msgctxt "editor_shapemode_limited"
 msgid "Limited shapes: tracks are shaped using line segments and circle arcs"
-msgstr "Formas limitadas: las vías se trazan con segmentos y arcos"
+msgstr "Forme limitate: i binari sono modellati utilizzando segmenti di linea e archi circolari"
 
 #v1.9.17
 msgctxt "editor_tangent_fix"
 msgid "Keep last tangent: preserve previous track tangent and approximate a circle arc"
-msgstr "NOT IN GAME - Keep last tangent: preserve previous track tangent and approximate a circle arc"
+msgstr "Mantieni l'ultima tangente: conserva la tangente precedente e approssimi un arco circolare"
 
 #v1.9.17
 msgctxt "editor_tangent_interp"
 msgid "Interpolate tangent: average previous track and current track tangents"
-msgstr "NOT IN GAME - Interpolate tangent: average previous track and current track tangents"
+msgstr "Interpolazione tangente: media delle tangenti del binario precedente e corrente"
 
 #v1.1.31
 msgctxt "editor_tip_add_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc para volver a modo edición"
+msgstr "Esc per andare in modalità modifica"
 
 #v1.8.24
 msgctxt "editor_tip_add_left1"
 msgid "Left click on the end of track control points to continue an existing track"
-msgstr "Click izquierdo en los controles de los extremos de las vías para continuar una vía existente"
+msgstr "Fare clic con il tasto sinistro del mouse sulla fine dei punti di controllo dei binari per continuare un binario esistente"
 
 #v1.1.31
 msgctxt "editor_tip_add_left2"
 msgid "Left click anywhere else to create a new track"
-msgstr "Click izquierdo en cualquier otra parte para empezar una nueva vía"
+msgstr "Clicca con il tasto sinistro del mouse in qualsiasi altro punto per creare un nuovo binario"
 
 #v1.8.24
 msgctxt "editor_tip_add_left3"
 msgid "Left click on length of existing tracks to branch them"
-msgstr "Click izquierdo sobre las vías para crear ramas"
+msgstr "Clicca con il tasto sinistro del mouse sulla lunghezza dei binari esistenti per diramarli"
 
 #v1.1.31
 msgctxt "editor_tip_branch_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc para volver a modo edición"
+msgstr "Esc per andare in modalità modifica"
 
 #v1.1.31
 msgctxt "editor_tip_branch_left"
 msgid "Left click to create the branch"
-msgstr "Click izquierdo para crear una rama"
+msgstr "Clicca con il tasto sinistro per separare"
 
 #v1.2.22
 msgctxt "editor_tip_branch_mouse"
 msgid "Hover the mouse cursor near an existing track to start a new branch"
-msgstr "Acerca el cursor a una vía existente para empezar una nueva rama"
+msgstr "Posizionare il cursore del mouse vicino a un binario esistente per avviare un nuova separazione"
 
 #v1.2.22
 msgctxt "editor_tip_cont_alt"
 msgid "Alt to toggle the parallel track side"
-msgstr "Alt para alternar el lado de la vía paralela"
+msgstr "Alt per attivare il lato binario parallelo"
 
 #v1.9.17
 msgctxt "editor_tip_cont_cancel_click"
 msgid "Click to cancel"
-msgstr "Click para cancelar"
+msgstr "Clic per cancellare"
 
 #v1.9.17
 msgctxt "editor_tip_cont_cancel_dbl_click"
