@@ -778,222 +778,222 @@ msgstr "Bilancio"
 #v1.1.31
 msgctxt "banner_expain_ignore"
 msgid "Ignored join requests can be authorized in the server management window."
-msgstr "Las peticiones de entrar ignoradas se pueden autorizan en la ventana de administración del servidor."
+msgstr "Le richieste di join ignorate possono essere autorizzate nella finestra di gestione del server."
 
 #v1.1.31
 msgctxt "banner_join_friend"
 msgid "{} wants to join your game."
-msgstr "{} quiere entrar en tu partida."
+msgstr "{} Vuole entrare nella tua partita."
 
 #v1.1.31
 msgctxt "banner_join_stranger"
 msgid "{} (not a friend) wants to join your game."
-msgstr "{} (desconocido) quiere entrar en tu partida."
+msgstr "{} (non un amico) vuole partecipare alla tua partita."
 
 #v1.1.31
 msgctxt "banner_new_join"
 msgid "{} joined the game."
-msgstr "{} ha entrado en la partida."
+msgstr "{} È entrato nella partita."
 
 #v1.1.31
 msgctxt "banner_prompt_client_join_anon"
 msgid "Do you want to join a game hosted by {}? Your current game will be autosaved and you will quit the current server."
-msgstr "Quieres entrar a una partida hospedada por {}? Tu partida actual se autoguardará y saldrás del servidor actual."
+msgstr "Vuoi partecipare a una partita ospitata da {}? La tua partita corrente verrà salvata automaticamente e dovrai uscire dal server attuale."
 
 #v1.1.31
 msgctxt "banner_prompt_client_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved and you will quit the current server."
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? Tu partida actual se autoguardará y saldrás del servidor actual."
+msgstr "{0} ti propone di partecipare a una partita ospitata da {1}. Vuoi partecipare? La tua partita corrente verrà salvata automaticamente e uscirai dal server attuale."
 
 #v1.1.31
 msgctxt "banner_prompt_game_join_anon"
 msgid "Do you want to join a game hosted by {}? Your current game will be autosaved."
-msgstr "Quieres entrar a una partida hospedada por {}? Tu partida actual se autoguardará."
+msgstr "Vuoi partecipare a una partita ospitata da {}? La tua partita corrente verrà salvata automaticamente"
 
 #v1.1.31
 msgctxt "banner_prompt_game_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved."
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? Tu partida actual se autoguardará."
+msgstr "{0} ti propone di partecipare a una partita ospitata da {1}. Vuoi partecipare? La tua partita corrente verrà salvata automaticamente."
 
 #v1.7.15
 msgctxt "banner_prompt_load_cmd_line"
 msgid "Load saved game {}?"
-msgstr "Cargar partida {}?"
+msgstr "Carica gioco salvato {}?"
 
 #v1.1.31
 msgctxt "banner_prompt_nogame_join_anon"
 msgid "Do you want to join a game hosted by {}?"
-msgstr "Quieres entrar a una partida hospedada por {}?"
+msgstr "Vuoi partecipare a una partita ospitata da {}?"
 
 #v1.1.31
 msgctxt "banner_prompt_nogame_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join?"
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar?"
+msgstr "{0} ti propone di partecipare a una partita ospitata da {1}. Vuoi partecipare?"
 
 #v1.7.15
 msgctxt "banner_prompt_quit_load_cmd_line"
 msgid "Quit current game and load saved game {}?"
-msgstr "Salir de la partida para cargar {}?"
+msgstr "Esci dal gioco corrente e carica il gioco salvato {}?"
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_anon"
 msgid "Do you want to join a game hosted by {}? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "Do you want to join a game hosted by {}? ATENCIÓN: estás hospedando una partida en estos momentos. Todos los jugadores conectados a tu servidor serán desconectados. Tu partida actual se autoguardará."
+msgstr "Vuoi partecipare a una partita ospitata da {}? ATTENZIONE: Stai attualmente ospitando una partita. Tutti i giocatori connessi saranno disconnessi. Il gioco corrente verrà salvato automaticamente."
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? ATENCIÓN: estás hospedando una partida en estos momentos. Todos los jugadores conectados a tu servidor serán desconectados. Tu partida actual se autoguardará."
+msgstr "{0} ti propone di partecipare a una partita ospitata da {1}. Vuoi partecipare? ATTENZIONE: Stai attualmente ospitando una partita. Tutti i giocatori connessi saranno disconnessi. Il gioco corrente verrà salvato automaticamente."
 
 #v1.4.15
 msgctxt "bill_show_full"
 msgid "Show full billing details"
-msgstr "Mostrar factura completa"
+msgstr "Mostra i dettagli completi"
 
 #v1.1.31
 msgctxt "bill_tab_client"
 msgid "By me"
-msgstr "Míos"
+msgstr "Da me"
 
 #v1.1.31
 msgctxt "bill_tab_global"
 msgid "Global"
-msgstr "Global"
+msgstr "Globale"
 
 #v1.1.31
 msgctxt "bill_tab_selection"
 msgid "Selection"
-msgstr "Selección"
+msgstr "Selezione"
 
 #v1.7.15
 msgctxt "browse_shared_games"
 msgid "Browse shared games"
-msgstr "Ver partidas compartidas"
+msgstr "Giochi condivisi"
 
 #v1.1.31
 msgctxt "build"
 msgid "Build"
-msgstr "Construir"
+msgstr "Costruisci"
 
 #v1.1.31
 msgctxt "build_all_bp"
 msgid "Build all blueprints"
-msgstr "Construir todos los planos"
+msgstr "Costruisci tutti i progetti"
 
 #v1.1.31
 msgctxt "build_my_bp"
 msgid "Build my blueprints"
-msgstr "Construir mis planos"
+msgstr "Costruisci i miei progetti"
 
 #v1.1.31
 msgctxt "build_selected_bp"
 msgid "Build selected blueprints"
-msgstr "Construir planos seleccionados"
+msgstr "Costruisci i progetti selezionati"
 
 #v1.4.15
 msgctxt "building_all_kinds_info"
 msgid "Show all building kinds and pick your favorites"
-msgstr "Mostrar todos los edificios y elegir favoritos"
+msgstr "Mostra tutti i tipi di costruzione e scegliere i tuoi preferiti"
 
 #v1.4.22
 msgctxt "building_bottom_side"
 msgid "Bottom side:"
-msgstr "Lado inferior:"
+msgstr "Lato inferiore:"
 
 #v1.4.15
 msgctxt "building_constraint_curved"
 msgid "Trace track curve"
-msgstr "Trazar la curva de la vía"
+msgstr "Tracciare la curva del binario"
 
 #v1.4.15
 msgctxt "building_constraint_draw_layer"
 msgid "Draw depth:"
-msgstr "Altura:"
+msgstr "Altezza:"
 
 #v1.4.15
 msgctxt "building_constraint_pick"
 msgid "Pick track"
-msgstr "Elegir vía"
+msgstr "Scegli binario"
 
 #v1.4.15
 msgctxt "building_constraint_type"
 msgid "Locked to track:"
-msgstr "Pegado a vía:"
+msgstr "Binario bloccato:"
 
 #v1.4.15
 msgctxt "building_constraints_editor"
 msgid "Building properties"
-msgstr "Propiedades de edificio"
+msgstr "Propietà edificio"
 
 #v1.4.22
 msgctxt "building_decal"
 msgid "Decal:"
-msgstr "Decoración:"
+msgstr "Decorazione:"
 
 #v1.4.22
 msgctxt "building_decal_color"
 msgid "Decal color:"
-msgstr "Color decor.:"
+msgstr "Colore decorazione:"
 
 #v1.4.22
 msgctxt "building_decal_none"
 msgid "<None>"
-msgstr "<Ninguno>"
+msgstr "<Nessuno>"
 
 #v1.4.15
 msgctxt "building_draw_layer_0"
 msgid "Under tracks"
-msgstr "Bajo de vía"
+msgstr "Sotto i binari"
 
 #v1.4.15
 msgctxt "building_draw_layer_1"
 msgid "Over tracks"
-msgstr "Sobre la vía"
+msgstr "Sopra i binari"
 
 #v1.4.15
 msgctxt "building_draw_layer_3"
 msgid "Roof"
-msgstr "Tejado"
+msgstr "Tetto"
 
 #v1.4.22
 msgctxt "building_end_t"
 msgid "End t (0 to 1):"
-msgstr "T final (0 a 1):"
+msgstr "T finale (0 a 1):"
 
 #v1.4.22
 msgctxt "building_height"
 msgid "Height:"
-msgstr "Alto:"
+msgstr "Altezza:"
 
 #v1.4.15
 msgctxt "building_info_price_f"
 msgid "${} per m\xC2\xB2"
-msgstr "${} por m²"
+msgstr "${} per m²"
 
 #v1.4.15
 msgctxt "building_label"
 msgid "[*] Label"
-msgstr "[*] Etiqueta"
+msgstr "[*] Etichetta"
 
 #v1.4.15
 msgctxt "building_label_bg_fill"
 msgid "Fill background"
-msgstr "Color de fondo"
+msgstr "Colore sfondo"
 
 #v1.4.15
 msgctxt "building_label_font"
 msgid "Font size:"
-msgstr "Tamaño fuente:"
+msgstr "Dimensione del carattere:"
 
 #v1.4.15
 msgctxt "building_label_font_0"
 msgid "Small"
-msgstr "Pequeña"
+msgstr "Piccolo"
 
 #v1.4.15
 msgctxt "building_label_font_1"
 msgid "Medium"
-msgstr "Mediana"
+msgstr "Medio"
 
 #v1.4.15
 msgctxt "building_label_font_2"
@@ -1003,137 +1003,137 @@ msgstr "Grande"
 #v1.4.15
 msgctxt "building_label_text"
 msgid "Text:"
-msgstr "Texto:"
+msgstr "Testo:"
 
 #v1.4.15
 msgctxt "building_max_zoom"
 msgid "Max zoom:"
-msgstr "Zoom máximo:"
+msgstr "Zoom massimo:"
 
 #v1.4.15
 msgctxt "building_platform_footprint_extension"
 msgid "[*] Platform footprint extension"
-msgstr "[*] Extensión de andén"
+msgstr "[*] Estensione della piattaforma"
 
 #v1.12.11
 msgctxt "building_poi_curve"
 msgid "Demand curve:"
-msgstr "Curva de demanda:"
+msgstr "Curva della domanda:"
 
 #v1.12.11
 msgctxt "building_poi_pop"
 msgid "Population:"
-msgstr "Población:"
+msgstr "Popolazione:"
 
 #v1.4.22
 msgctxt "building_start_t"
 msgid "Start t (0 to 1):"
-msgstr "T inicial (0 a 1):"
+msgstr "T inizio (0 a 1):"
 
 #v1.4.22
 msgctxt "building_top_side"
 msgid "Top side:"
-msgstr "Lado superior:"
+msgstr "Lato superiore:"
 
 #v1.4.22
 msgctxt "building_width"
 msgid "Width:"
-msgstr "Ancho:"
+msgstr "Larghezza:"
 
 #v1.4.15
 msgctxt "buildings_total"
 msgid "Buildings total"
-msgstr "Total edificios"
+msgstr "Edifici totali"
 
 #v1.9.17
 msgctxt "built_bill"
 msgid "Built objects report"
-msgstr "Objetos construidos"
+msgstr "Oggetti costruiti"
 
 #v1.5.31
 msgctxt "bulk_keep_straight"
 msgid "Platform keep straight:"
-msgstr "Andén recto:"
+msgstr "Mantieni dritto:"
 
 #v1.5.31
 msgctxt "bulk_keep_straight_disable"
 msgid "Disable"
-msgstr "Desactivar"
+msgstr "Disattiva"
 
 #v1.5.31
 msgctxt "bulk_keep_straight_enable"
 msgid "Enable"
-msgstr "Activar"
+msgstr "Attiva"
 
 #v1.5.31
 msgctxt "bulk_label_mode"
 msgid "Station label:"
-msgstr "Etiqueta estación:"
+msgstr "Etichetta stazione:"
 
 #v1.1.31
 msgctxt "cancel"
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "Cancella"
 
 #v1.1.31
 msgctxt "cancel_quit"
 msgid "Quit"
-msgstr "Salir"
+msgstr "Esci"
 
 #v1.7.15
 msgctxt "cancel_replace"
 msgid "Cancel replacement"
-msgstr "Cancelar reemplazo"
+msgstr "Cancella rimpiazzo"
 
 #v1.7.15
 msgctxt "cars_uncategorized"
 msgid "Uncategorized"
-msgstr "Sin categoría"
+msgstr "Senza categoria"
 
 #v1.3.13
 msgctxt "cat_track_gauge"
 msgid "Track gauge"
-msgstr "Ancho de vía"
+msgstr "Scartamento binari"
 
 #v1.7.15
 msgctxt "cat_train_interior"
 msgid "Interior"
-msgstr "Interior"
+msgstr "Interno"
 
 #v1.3.13
 msgctxt "cat_train_misc"
 msgid "Train miscellany"
-msgstr "Misc. tren"
+msgstr "Misc. treno"
 
 #v1.3.13
 msgctxt "cat_train_power"
 msgid "Train power"
-msgstr "Potencia (tren)"
+msgstr "Potenza treno"
 
 #v1.3.13
 msgctxt "cat_train_role"
 msgid "Train role"
-msgstr "Rol (tren)"
+msgstr "Ruolo treno"
 
 #v1.3.13
 msgctxt "cat_train_unit"
 msgid "Train unit"
-msgstr "Unidad (tren)"
+msgstr "Unità treno"
 
 #v1.3.13
 msgctxt "charts_title"
 msgid "Charts"
-msgstr "Gráficos"
+msgstr "Grafica"
 
 #v1.1.31
 msgctxt "client_blueprint_bill"
 msgid "My blueprint bill"
-msgstr "Factura de mis planos"
+msgstr "La fattura del progetto"
 
 #v1.4.15
 msgctxt "client_blueprint_bill_short"
 msgid "My blueprints"
-msgstr "Mis planos"
+msgstr "I miei progetti"
 
 #v1.1.31
 msgctxt "client_conn_info"
@@ -1143,7 +1143,7 @@ msgstr "Host: {0} | {1}ms | {2:.2f}%▲ {3:.2f}%▼ | {4}▲ {5}▼ B/s"
 #v1.1.37
 msgctxt "client_stream_stats"
 msgid "Client stream stats"
-msgstr "Estadísticas de streaming de cliente"
+msgstr "Statistiche flusso clienti"
 
 #v1.4.15
 msgctxt "clip_auto_name"
@@ -1153,7 +1153,7 @@ msgstr "Clip #{}"
 #v1.3.13
 msgctxt "color"
 msgid "Color:"
-msgstr "Color:"
+msgstr "Colore:"
 
 #v1.1.31
 msgctxt "company_tab_info"
@@ -1163,182 +1163,182 @@ msgstr "Info"
 #v1.5.31
 msgctxt "company_tab_loans"
 msgid "Loans"
-msgstr "Crédito"
+msgstr "Prestiti"
 
 #v1.5.31
 msgctxt "company_tab_options"
 msgid "Options"
-msgstr "Opciones"
+msgstr "Opzioni"
 
 #v1.1.31
 msgctxt "confirm_bp"
 msgid "Do you want to build the current blueprint?"
-msgstr "Quieres construir los planos actuales?"
+msgstr "Vuoi costruire il progetto attuale?"
 
 #v1.1.31
 msgctxt "confirm_bp_price"
 msgid "Do you want to build the current blueprint for ${}?"
-msgstr "Quieres construir los planos actuales por un precio de ${}?"
+msgstr "Vuoi costruire il progetto attuale per ${}?"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown"
 msgid "Clip contains unknown objects or mods"
-msgstr "El clip contiene objetos o mods desconocidos"
+msgstr "La clip contiene oggetti o mod sconosciuti"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_1"
 msgid "One or more objects in the clip references an unknown object kind:\n"
-msgstr "Uno o más objetos en el clip hace referencia a un tipo de objeto desconocido:\n"
+msgstr "Uno o più oggetti nella clip fa riferimento a un tipo di oggetto sconosciuto: n"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_2"
 msgid "One or more objects in the clip references an unknown mod:\n"
-msgstr "Uno o más objetos en el clip hace referencia a un mod:\n"
+msgstr "Uno o più oggetti nella clip fa riferimento a un mod sconosciuto: n"
 
 #v1.12.11
 msgctxt "confirm_clip_unknown_desc_2d"
 msgid "One or more objects in the clip references an unknown demand curve:\n"
-msgstr "Uno o mas objetos referencian una curva de demanda desconocida:\n"
+msgstr "Uno o più oggetti nella clip fa riferimento a una curva di domanda sconosciuta: n"
 
 #v1.12.11
 msgctxt "confirm_clip_unknown_desc_3"
 msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods, object kinds and demand curves being imported into your game.\n"
-msgstr "Copia usando objetos por defecto para reemplazar los objetos desconocidos con objetos base del juego, evitando tener que añadir o activar nuevos tipos de objetos o mods.\n"
+msgstr "Copia con built-in per sostituire gli oggetti sconosciuti con gli oggetti incorporati, evitando nuovi mod, tipi di oggetto e curve di domanda che vengono importati nel gioco. n"
 
 #v1.12.11
 msgctxt "confirm_clip_unknown_desc_4"
 msgid "Copy with new mods to import new object kinds and to enable their mods and demand curves in your game. You will then need to subscribe to these mods in the Steam Workshop if you are not yet subscribed."
-msgstr "Copia usando nuevos mods para añadir los tipos de objetos desconocidos a tu juego. Necesitarás suscribirte a sus mods en el Workshop si todavía no estás suscrito."
+msgstr "Copia con le nuove mod per importare nuovi tipi di oggetti e abilitare le loro curve di mods e di domanda nel tuo gioco. Dovrai quindi iscriverti nello Steam Workshop se non sei ancora iscritto."
 
 #v1.4.22
 msgctxt "confirm_collection_delete"
 msgid "Delete collection"
-msgstr "Borrar colección"
+msgstr "Elimina raccolta"
 
 #v1.4.22
 msgctxt "confirm_collection_delete_body"
 msgid "Delete the selected collection?"
-msgstr "Borrar la colección seleccionada?"
+msgstr "Eliminare la raccolta selezionata?"
 
 #v1.4.22
 msgctxt "confirm_collection_delete_ok"
 msgid "Delete collection"
-msgstr "Borrar colección"
+msgstr "Elimina raccolta"
 
 #v1.1.31
 msgctxt "confirm_construction"
 msgid "Confirm construction"
-msgstr "Confirmar construcción"
+msgstr "Conferma costruzione"
 
 #v1.1.31
 msgctxt "confirm_delete"
 msgid "Confirm delete"
-msgstr "Confirmar borrado"
+msgstr "Conferma eliminazione"
 
 #v1.4.15
 msgctxt "confirm_delete_desc"
 msgid "One or more selected objects are already built. Deleting them will not refund your money. This operation cannot be undone. Are you sure?"
-msgstr "Uno o más objetos ya han sido construidos. Borrar estos objetos no te va a devolver su coste de construcción. Esta operación no se puede cancelar. Estás seguro?"
+msgstr "Uno o più oggetti selezionati sono già stati costruiti. Cancellarli non ti restituirà i soldi. Questa operazione non può essere annullata. Sei sicuro?"
 
 #v1.1.58
 msgctxt "confirm_delete_line"
 msgid "Confirm line deletion"
-msgstr "Borrar la línea?"
+msgstr "Comfermi l'eliminazione della linea?"
 
 #v1.1.58
 msgctxt "confirm_delete_line_desc"
 msgid "Do you want to delete the line named {}?"
-msgstr "Confirmas que quieres borrar la línea de nombre {}?"
+msgstr "Vuoi eliminare la linea chiamata {}?"
 
 #v1.5.31
 msgctxt "confirm_intervention_line"
 msgid "Confirm line intervention"
-msgstr "Confirmar intervención de línea"
+msgstr "Conferma intervento sulla linea"
 
 #v1.5.31
 msgctxt "confirm_intervention_line_desc"
 msgid "Do you want to issue an intervention to all the trains currently running the line named {0} for a price of ${1}?"
-msgstr "Quieres hacer una intervención a todos los trenes recorriendo la línea {0} actualmente por un precio de ${1}?"
+msgstr "Vuoi emettere un intervento per tutti i treni che corrono attualmente sulla linea denominata {0} al prezzo di ${1}?"
 
 #v1.1.72
 msgctxt "confirm_set_no_cash"
 msgid "Confirm switching to unlimited money"
-msgstr "Confirmar el paso a dinero ilimitado"
+msgstr "Conferma passaggio a denaro illimitato"
 
 #v1.1.72
 msgctxt "confirm_set_no_cash_desc"
 msgid "Switching to unlimited money cannot be undone. Are you sure?"
-msgstr "Pasar a dinero ilimitado es definitivo. Estás seguro?"
+msgstr "Il passaggio a denaro illimitato non può essere annullato. Sei sicuro?"
 
 #v1.7.15
 msgctxt "confirm_set_no_couplers"
 msgid "Confirm switching to unrestricted coupling"
-msgstr "Confirma el cambio a acople sin restricciones"
+msgstr "Confermare il passaggio al l'accoppiamento senza restrizioni"
 
 #v1.7.15
 msgctxt "confirm_set_no_couplers_desc"
 msgid "Switching to unrestricted coupling cannot be undone. Are you sure?"
-msgstr "El cambio a acople sin restricciones no tiene vuelta atrás. Estás seguro?"
+msgstr "Il passaggio al l'accopiamento illimitato non può essere annullato. Ne sei sicuro?"
 
 #v1.1.31
 msgctxt "conflict_map_hit"
 msgid "water or road hits"
-msgstr "colisión con agua o calles"
+msgstr "colisione con l'acqua o strada"
 
 #v1.1.31
 msgctxt "conflicts"
 msgid "Conflicts"
-msgstr "Conflictos"
+msgstr "Conflitti"
 
 #v1.1.37
 msgctxt "conflicts_pop_desc"
 msgid "One or more tracks have conflicts and cannot be constructed, or their validation is still pending. Move, edit or delete all tracks marked in red."
-msgstr "Una o más vías tiene conflictos y no se pueden construir, o no está validada. Mueve, edita o borra todas las vías de color rojo."
+msgstr "Uno o più binari hanno conflitti e non possono essere costruiti, oppure la loro convalida è ancora in sospeso. Sposta, modifica o elimina tutti binari marcati in rosso."
 
 #v1.1.31
 msgctxt "connecting_elip"
 msgid "Connecting..."
-msgstr "Conectando..."
+msgstr "Connessione..."
 
 #v1.1.31
 msgctxt "connection_denied"
 msgid "Connection denied"
-msgstr "Conexión denegada"
+msgstr "Connessione negata"
 
 #v1.2.22
 msgctxt "constraint_direction"
 msgid "Direction:"
-msgstr "Dirección:"
+msgstr "Direzione:"
 
 #v1.4.22
 msgctxt "constraint_disp"
 msgid "Displace:"
-msgstr "Desplazar:"
+msgstr "Spostare:"
 
 #v1.2.22
 msgctxt "constraint_flip"
 msgid "Flip"
-msgstr "Rotar"
+msgstr "Ruotare"
 
 #v1.5.31
 msgctxt "constraint_max_speed"
 msgid "Custom max speed:"
-msgstr "Velocidad max. manual:"
+msgstr "Velocità massima manuale:"
 
 #v1.5.31
 msgctxt "constraint_max_speed_tip"
 msgid "Values over physical max track speed will be ignored. Set to 0 to disable custom max speed."
-msgstr "Los valores por encima del límite físico de la vía serán ignorados. El valor 0 desactiva esta funcionalidad."
+msgstr "Valori sopra la velocità massima fisica del binario saranno ignorati. Impostare a 0 per disabilitare la velocità massima personalizzata."
 
 #v1.4.22
 msgctxt "constraint_offset"
 msgid "Offset:"
-msgstr "Desplazar:"
+msgstr "Spostamento:"
 
 #v1.5.31
 msgctxt "constraint_offset2"
 msgid "Parallel offset:"
-msgstr "Desplazar paralelo:"
+msgstr "Spostamento parallelo:"
 
 #v1.9.17
 msgctxt "constraint_offset2_add"
@@ -1358,77 +1358,77 @@ msgstr "="
 #v1.2.22
 msgctxt "constraint_pick"
 msgid "Pick parent"
-msgstr "Elegir padre"
+msgstr "Prendi principale"
 
 #v1.9.17
 msgctxt "constraint_platforms"
 msgid "Platforms:"
-msgstr "Andenes:"
+msgstr "Piattaforme:"
 
 #v1.9.17
 msgctxt "constraint_platforms_demote"
 msgid "Demote"
-msgstr "Descender"
+msgstr "Declassa"
 
 #v1.9.17
 msgctxt "constraint_platforms_promote"
 msgid "Promote"
-msgstr "Ascender"
+msgstr "Promuovi"
 
 #v1.2.22
 msgctxt "constraint_remove"
 msgid "Remove constraint"
-msgstr "Quitar restricción"
+msgstr "Rimuovi restrizioni"
 
 #v1.5.31
 msgctxt "constraint_remove_parent"
 msgid "Parallel constraint:"
-msgstr "Restricción paralela:"
+msgstr "Restrizione parallela:"
 
 #v1.5.31
 msgctxt "constraint_remove_parent_action"
 msgid "Remove"
-msgstr "Eliminar"
+msgstr "Rimuovi"
 
 #v1.7.15
 msgctxt "constraint_select_parent"
 msgid "Select parent track"
-msgstr "Selecciona la vía padre"
+msgstr "Seleziona binario principale"
 
 #v1.4.15
 msgctxt "constraint_straight"
 msgid "Keep straight"
-msgstr "Mantener recto"
+msgstr "Mantieni dritto"
 
 #v1.2.22
 msgctxt "constraint_t"
 msgid "Segment t (0 to 1):"
-msgstr "T de segmento (0 to 1):"
+msgstr "Segmento T (0 to 1):"
 
 #v1.2.22
 msgctxt "constraint_type"
 msgid "Lock control point:"
-msgstr "Bloqueo de punto:"
+msgstr "Punto controllato:"
 
 #v1.2.22
 msgctxt "constraint_type_control_point"
 msgid "To a control point"
-msgstr "A punto de control"
+msgstr "Punto di controllo"
 
 #v1.2.22
 msgctxt "constraint_type_t_tangent"
 msgid "To a track point"
-msgstr "A un punto de vía"
+msgstr "Verso binario di riferimento"
 
 #v1.5.41
 msgctxt "constraint_xform_grid_snap"
 msgid "Snap:"
-msgstr "Reticular:"
+msgstr "Scatto:"
 
 #v1.5.41
 msgctxt "constraint_xform_rotate"
 msgid "Rotate:"
-msgstr "Rotar:"
+msgstr "Ruotare:"
 
 #v1.5.41
 msgctxt "constraint_xform_rotate_tip"
