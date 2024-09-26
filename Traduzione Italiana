@@ -168,7 +168,7 @@ msgstr "Cammina durante {}"
 #v1.13.11
 msgctxt "pax_waiting3"
 msgid "Pax:"
-msgstr "Pax:"
+msgstr "Passeggeri:"
 
 #v1.13.11
 msgctxt "perf_editor_holds_rebuild"
@@ -178,67 +178,67 @@ msgstr "Tenere gli aggiornamenti in pausa in editor"
 #v1.13.11
 msgctxt "rebuild_demand_stalled_tp"
 msgid "Tile demand rebuild is pending due to an editing action\nPress F1 or unpause the simulation to start the rebuild"
-msgstr "La actualización de los datos de demanda está pendiente\nPulsa F1 o pon el marcha el sim para empezar la actualización"
+msgstr "La richiesta di ricostruzione è in sospeso per una modifica\nPremi F1 o riattiva la simulazione per avviare la ricostruzione"
 
 #v1.13.11
 msgctxt "rebuild_timetable_stalled_tp"
 msgid "Pax timetable rebuild is pending due to an editing action\nPress F1 or unpause the simulation to start the rebuild"
-msgstr "La actualización de los horarios está pendiente\nPulsa F1 o pon el marcha el sim para empezar la actualización"
+msgstr "La ricostruzione dell'orario Pax è in sospeso per una modifica\nPremi F1 o riattiva la simulazione per avviare la ricostruzione"
 
 #v1.13.11
 msgctxt "reset_all_stations"
 msgid "Reset all stations"
-msgstr "Modificar todas las estaciones"
+msgstr "Resetta tutte le stazioni"
 
 #v1.13.11
 msgctxt "station_max_plat_pax"
 msgid "Platforms pax capacity:"
-msgstr "Capacidad en andenes:"
+msgstr "Capacità pax piattaforma:"
 
 #v1.13.11
 msgctxt "station_max_plat_pax_nc"
 msgid "Plat. pax capacity"
-msgstr "Capacidad en andenes"
+msgstr "Capacità pax nella piattaforma"
 
 #v1.13.11
 msgctxt "station_max_walk"
 msgid "Auto walk transfer:"
-msgstr "Camino automático:"
+msgstr "Cammino automatico:"
 
 #v1.13.11
 msgctxt "station_max_walk_nc"
 msgid "Max. walk transfer"
-msgstr "Camino automático"
+msgstr "Cammino automatico"
 
 #v1.13.11
 msgctxt "station_platform_user_footprint"
 msgid "Platform footprint:"
-msgstr "Ancho andén:"
+msgstr "Larghezza piattaforma:"
 
 #v1.13.11
 msgctxt "station_pop_area_nc"
 msgid "Population radius"
-msgstr "Radio población"
+msgstr "Raggio popolazione"
 
 #v1.13.11
 msgctxt "station_transfer_overflow_into_hall"
 msgid "Transfers overflow into hall"
-msgstr "Transbordos pueden ir al hall"
+msgstr "Trasferimento in eccesso in sala"
 
 #v1.13.11
 msgctxt "station_transfer_overflow_into_hall_nc"
 msgid "(Change) Overflow"
-msgstr "(Cambiar) Transbordos"
+msgstr "(Cambia) Eccesso"
 
 #v1.13.11
 msgctxt "timetable"
 msgid "Timetable"
-msgstr "Horario"
+msgstr "Orario"
 
 #v1.13.11
 msgctxt "track_station_tools"
 msgid "Create stations and extensions"
-msgstr "Crear estaciones y extensiones"
+msgstr "Creare stazioni e estensioni"
 
 
 
@@ -248,22 +248,22 @@ msgstr "Crear estaciones y extensiones"
 #v1.13.11
 msgctxt "editor_station"
 msgid "Create station platforms"
-msgstr "Crear nuevos andenes"
+msgstr "Creare piattaforme stazione"
 
 #v1.13.11
 msgctxt "mvo_mod_poi_labels"
 msgid "Mod POI labels"
-msgstr "Etiquetas de POIs de mods"
+msgstr "Etichette di POI mod"
 
 #v1.13.11
 msgctxt "option_company_station_label"
 msgid "Station label:"
-msgstr "Etiqueta estación:"
+msgstr "Etichetta stazione:"
 
 #v1.13.11
 msgctxt "station_pop_area"
 msgid "Population radius:"
-msgstr "Radio población:"
+msgstr "Raggio popolazione:"
 
 
 
@@ -273,107 +273,107 @@ msgstr "Radio población:"
 #v1.1.31
 msgctxt "10_minutes"
 msgid "10 minutes"
-msgstr "10 minutos"
+msgstr "10 minuti"
 
 #v1.1.31
 msgctxt "15_minutes"
 msgid "15 minutes"
-msgstr "15 minutos"
+msgstr "15 minuti"
 
 #v1.1.31
 msgctxt "20_minutes"
 msgid "20 minutes"
-msgstr "20 minutos"
+msgstr "20 minuti"
 
 #v1.1.31
 msgctxt "30_minutes"
 msgid "30 minutes"
-msgstr "30 minutos"
+msgstr "30 minuti"
 
 #v1.1.31
 msgctxt "5_minutes"
 msgid "5 minutes"
-msgstr "5 minutos"
+msgstr "5 minuti"
 
 #v1.1.31
 msgctxt "60_minutes"
 msgid "60 minutes"
-msgstr "60 minutos"
+msgstr "60 minuti"
 
 #v1.3.13
 msgctxt "acc_export_desc"
 msgid "Accounting data has been exported to {}"
-msgstr "Se ha exportado la contabilidad a {}"
+msgstr "I dati contabili sono stati esportati in {}"
 
 #v1.3.13
 msgctxt "acc_export_title"
 msgid "Exported accounting data"
-msgstr "Contabilidad exportada"
+msgstr "Contabilità esportata"
 
 #v1.1.31
 msgctxt "accounting"
 msgid "Accounting"
-msgstr "Contabilidad"
+msgstr "Contabilità"
 
 #v1.1.31
 msgctxt "accounting_cash_total"
 msgid "$ Total"
-msgstr "$ Total"
+msgstr "$ Totale"
 
 #v1.1.31
 msgctxt "accounting_construction"
 msgid "Construction"
-msgstr "Construcción"
+msgstr "Construzione"
 
 #v1.4.15
 msgctxt "accounting_construction_buildings"
 msgid "Buildings"
-msgstr "Edificios"
+msgstr "Edifici"
 
 #v1.1.31
 msgctxt "accounting_construction_depots"
 msgid "Depots"
-msgstr "Depósitos"
+msgstr "Depositi"
 
 #v1.4.15
 msgctxt "accounting_construction_stations"
 msgid "Platforms"
-msgstr "Andén"
+msgstr "Piattaforme"
 
 #v1.1.31
 msgctxt "accounting_construction_total"
 msgid "Total construction"
-msgstr "Total construcción"
+msgstr "Costruzione totale"
 
 #v1.1.31
 msgctxt "accounting_construction_tracks"
 msgid "Tracks"
-msgstr "Vías"
+msgstr "Binari"
 
 #v1.5.31
 msgctxt "accounting_events_post"
 msgid "events"
-msgstr "eventos"
+msgstr "eventi"
 
 #v1.1.31
 msgctxt "accounting_financing"
 msgid "Financing"
-msgstr "Financiación"
+msgstr "Finanziamenti"
 
 #v1.1.31
 msgctxt "accounting_financing_credit"
 msgid "Credit"
-msgstr "Crédito"
+msgstr "Credito"
 
 #v1.1.31
 msgctxt "accounting_financing_interest"
 msgid "Interest"
-msgstr "Interés"
+msgstr "Interessi"
 
 #v1.1.37
 msgctxt "accounting_found_station_too_full"
 msgid "Compen.: full station"
-msgstr "Compen.: estación llena"
+msgstr "Compen.: stazione completa"
 
 #v1.1.72
 msgctxt "accounting_km_post"
@@ -383,97 +383,97 @@ msgstr "km"
 #v1.1.31
 msgctxt "accounting_pax"
 msgid "Passengers"
-msgstr "Pasajeros"
+msgstr "Passeggeri"
 
 #v1.1.31
 msgctxt "accounting_pax_boarded"
 msgid "Boarded train"
-msgstr "Entrado tren"
+msgstr "Salito sul treno"
 
 #v1.1.31
 msgctxt "accounting_pax_compensated"
 msgid "Compensated"
-msgstr "Compensado"
+msgstr "Compensato"
 
 #v1.1.37
 msgctxt "accounting_pax_intervention"
 msgid "Compen.: intervention"
-msgstr "Compen.: intervención"
+msgstr "Compen.: intervento"
 
 #v1.1.37
 msgctxt "accounting_pax_lost"
 msgid "Compen.: lost"
-msgstr "Compen.: perdido"
+msgstr "Compen.: persi"
 
 #v1.1.72
 msgctxt "accounting_pax_never_serviced"
 msgid "Never serviced"
-msgstr "Sin servicio"
+msgstr "Mai servito"
 
 #v1.1.72
 msgctxt "accounting_pax_new"
 msgid "New pax"
-msgstr "Nuevos pax"
+msgstr "Nuovi passeggeri"
 
 #v1.1.31
 msgctxt "accounting_pax_post"
 msgid "pax"
-msgstr "pax"
+msgstr "passeggeri"
 
 #v1.1.37
 msgctxt "accounting_pax_reached_depot"
 msgid "Refund: reached depot"
-msgstr "Reemb.: llegó a depósito"
+msgstr "Rimborso: raggiunto il deposito"
 
 #v1.1.31
 msgctxt "accounting_pax_reached_destination"
 msgid "Reached destination"
-msgstr "Llegó a destinación"
+msgstr "Destinazione raggiunta"
 
 #v1.1.31
 msgctxt "accounting_pax_reached_transfer"
 msgid "Reached transfer"
-msgstr "Llegó a transferencia"
+msgstr "Trasferimento raggiunto"
 
 #v1.1.37
 msgctxt "accounting_pax_refunded"
 msgid "Refunded (incl. compen.)"
-msgstr "Reembolsado (incl. compen.)"
+msgstr "Rimborsato (incl. compen.)"
 
 #v1.1.37
 msgctxt "accounting_pax_refused_fare"
 msgid "Refund: too high fare"
-msgstr "Reemb.: tarifa demasiado alta"
+msgstr "Rimborsato: tariffa troppo alta"
 
 #v1.1.31
 msgctxt "accounting_pax_spawned"
 msgid "Started trip"
-msgstr "Empezó viaje"
+msgstr "Viaggio iniziato"
 
 #v1.1.37
 msgctxt "accounting_pax_waited_too_long"
 msgid "Compen.: waited too long"
-msgstr "Compen.: esperó demasiado"
+msgstr "Compen.: ha aspettato troppo"
 
 #v1.1.31
 msgctxt "accounting_period_day"
 msgid "Day"
-msgstr "Día"
+msgstr "Giorno"
 
 #v1.1.72
 msgctxt "accounting_period_lifetime"
 msgid "Lifetime"
-msgstr "Desde creación"
+msgstr "Dalla creazione"
 
 #v1.1.72
 msgctxt "accounting_period_lifetime_unknown"
 msgid "Since its creation"
-msgstr "Desde creación"
+msgstr "Dalla creazione"
 
 #v1.1.31
 msgctxt "accounting_period_month"
 msgid "Month"
-msgstr "Mes"
+msgstr "Mese"
 
 #v1.1.31
 msgctxt "accounting_period_quarter"
@@ -483,237 +483,237 @@ msgstr "Trimestre"
 #v1.1.31
 msgctxt "accounting_period_week"
 msgid "Week"
-msgstr "Semana"
+msgstr "Settimana"
 
 #v1.1.31
 msgctxt "accounting_period_year"
 msgid "Year"
-msgstr "Año"
+msgstr "Anno"
 
 #v1.1.31
 msgctxt "accounting_quarter1"
 msgid "Q1"
-msgstr "T1"
+msgstr "S1"
 
 #v1.1.31
 msgctxt "accounting_quarter2"
 msgid "Q2"
-msgstr "T2"
+msgstr "S2"
 
 #v1.1.31
 msgctxt "accounting_quarter3"
 msgid "Q3"
-msgstr "T3"
+msgstr "S3"
 
 #v1.1.31
 msgctxt "accounting_quarter4"
 msgid "Q4"
-msgstr "T4"
+msgstr "S4"
 
 #v1.1.72
 msgctxt "accounting_stats_now"
 msgid "Now"
-msgstr "Ahora"
+msgstr "Adesso"
 
 #v1.1.31
 msgctxt "accounting_ticketing"
 msgid "Ticketing"
-msgstr "Billetes"
+msgstr "Biglietti"
 
 #v1.1.31
 msgctxt "accounting_ticketing_compensations"
 msgid "Compensations"
-msgstr "Compensaciones"
+msgstr "Compensazioni"
 
 #v1.1.31
 msgctxt "accounting_ticketing_fares"
 msgid "Fares"
-msgstr "Tarifas"
+msgstr "Tariffe"
 
 #v1.1.37
 msgctxt "accounting_ticketing_profit"
 msgid "Profit"
-msgstr "Beneficios"
+msgstr "Profitti"
 
 #v1.1.31
 msgctxt "accounting_ticketing_refunds"
 msgid "Refunds"
-msgstr "Reembolsos"
+msgstr "Rimborsi"
 
 #v1.1.31
 msgctxt "accounting_trains"
 msgid "Trains"
-msgstr "Trenes"
+msgstr "Treni"
 
 #v1.8.24
 msgctxt "accounting_trains_collisions"
 msgid "Collisions"
-msgstr "Colisiones"
+msgstr "Collisioni"
 
 #v1.7.15
 msgctxt "accounting_trains_departure"
 msgid "Departures"
-msgstr "Salidas"
+msgstr "Partenze"
 
 #v1.8.24
 msgctxt "accounting_trains_extra_stop_time"
 msgid "Extra stop"
-msgstr "Parada extra"
+msgstr "Fermata extra"
 
 #v1.1.31
 msgctxt "accounting_trains_intervention"
 msgid "Interventions"
-msgstr "Intervenciones"
+msgstr "Interventi"
 
 #v1.8.24
 msgctxt "accounting_trains_late_arrival_time"
 msgid "Late arrival >10s"
-msgstr "Llegada tardía >10s"
+msgstr "Arrivo in ritardo >10"
 
 #v1.1.37
 msgctxt "accounting_trains_maintenance"
 msgid "Maintenance"
-msgstr "Mantenimiento"
+msgstr "Mantenimento"
 
 #v1.1.31
 msgctxt "accounting_trains_purchases"
 msgid "New trains"
-msgstr "Nuevos trenes"
+msgstr "Nuovi treni"
 
 #v1.1.31
 msgctxt "accounting_trains_running"
 msgid "Running costs"
-msgstr "Costes de circulación"
+msgstr "Costi operativi"
 
 #v1.7.15
 msgctxt "accounting_trains_running_distance"
 msgid "Running distance"
-msgstr "Distancia recorrida"
+msgstr "Distanza percorsa"
 
 #v1.7.15
 msgctxt "accounting_trains_running_time"
 msgid "Running time"
-msgstr "Tiempo recorrido"
+msgstr "Tempo di utilizzo"
 
 #v1.1.31
 msgctxt "accounting_trains_sales"
 msgid "Train sales"
-msgstr "Venta de trenes"
+msgstr "Vendita treni"
 
 #v1.8.24
 msgctxt "accounting_trains_signal_stop_time"
 msgid "Signal wait"
-msgstr "Espera en señal"
+msgstr "Segnale di attesa"
 
 #v1.8.24
 msgctxt "accounting_trains_stop_time"
 msgid "Scheduled stop"
-msgstr "Parada programada"
+msgstr "Fermata prevista"
 
 #v1.11.14
 msgctxt "accounting_utc_warn"
 msgid "Accounting time: {}"
-msgstr "Tiempo conta.: {}"
+msgstr "Tempo contabilità: {}"
 
 #v1.1.31
 msgctxt "accounting_week_title"
 msgid "Week of {0} {1} {2}"
-msgstr "Semana de {0} {1} {2}"
+msgstr "Settimana di {0} {1} {2}"
 
 #v1.1.31
 msgctxt "acl_action_allow"
 msgid "Always allow"
-msgstr "Permitir siempre"
+msgstr "Permetti sempre"
 
 #v1.1.31
 msgctxt "acl_action_drop"
 msgid "Ignore"
-msgstr "Ignorar"
+msgstr "Ignorare"
 
 #v1.1.31
 msgctxt "acl_action_queue"
 msgid "Ask me"
-msgstr "Pregúntame"
+msgstr "Chiedi"
 
 #v1.1.31
 msgctxt "acl_allowed"
 msgid "Allowed"
-msgstr "Permitido"
+msgstr "Permetti"
 
 #v1.1.31
 msgctxt "acl_denied"
 msgid "Denied"
-msgstr "Denegado"
+msgstr "Negato"
 
 #v1.1.31
 msgctxt "acl_friend_action"
 msgid "If an uninvited friend wants to join:"
-msgstr "Si un amigo no invitado quiere entrar:"
+msgstr "Se un amico non invitato vuole unirsi:"
 
 #v1.1.31
 msgctxt "acl_pending"
 msgid "Pending"
-msgstr "Pendiente"
+msgstr "In attesa"
 
 #v1.1.31
 msgctxt "acl_stranger_action"
 msgid "If an uninvited stranger wants to join:"
-msgstr "Si un desconocido quiere entrar:"
+msgstr "Se uno sconosciuto non invitato vuole unirsi:"
 
 #v1.3.13
 msgctxt "alert_after"
 msgid "After:"
-msgstr "Pasados:"
+msgstr "Passanti:"
 
 #v1.3.13
 msgctxt "alert_on"
 msgid "Alert on:"
-msgstr "Alerta en:"
+msgstr "Avviso su:"
 
 #v1.4.15
 msgctxt "alerts_pause_game"
 msgid "Alerts pause game"
-msgstr "Alertas pausan el juego"
+msgstr "Avvisa pausa gioco"
 
 #v1.4.15
 msgctxt "alerts_pause_game_fastest"
 msgid "Even at fastest speed"
-msgstr "Incluso en máxima velocidad"
+msgstr "Anche alla massima velocità"
 
 #v1.9.17
 msgctxt "alerts_pause_game_only_0_delay"
 msgid "Only if delay is 0"
-msgstr "Solo si pasados 0 minutos"
+msgstr "Solo se il ritardo è pari a 0 minuti"
 
 #v1.10.16
 msgctxt "all"
 msgid "All"
-msgstr "Todo"
+msgstr "Tutti"
 
 #v1.2.22
 msgctxt "apply"
 msgid "Apply"
-msgstr "Aplicar"
+msgstr "Aplica"
 
 #v1.1.72
 msgctxt "asset_lines"
 msgid "Lines"
-msgstr "Líneas"
+msgstr "Linee"
 
 #v1.1.72
 msgctxt "asset_stations"
 msgid "Stations"
-msgstr "Estaciones"
+msgstr "Stazioni"
 
 #v1.1.72
 msgctxt "asset_trains"
 msgid "Trains"
-msgstr "Trenes"
+msgstr "Treni"
 
 #v1.9.17
 msgctxt "assets_live_update"
 msgid "Live updates"
-msgstr "Tiempo real"
+msgstr "Tempo reale"
 
 #v1.5.41
 msgctxt "auto_clone"
@@ -723,57 +723,57 @@ msgstr "(Auto)"
 #v1.5.31
 msgctxt "auto_platform_scroll"
 msgid "Automatically track and scroll the list based on the time of day"
-msgstr "Sigue la hora del día automaticamente"
+msgstr "Traccia e scorri automaticamente l'elenco in base all'ora del giorno"
 
 #v1.3.13
 msgctxt "autoexport_config_name"
 msgid "Autoexport accounting:"
-msgstr "Auto exportar conta.:"
+msgstr "Contabilità esportazione automatica:"
 
 #v1.3.13
 msgctxt "autoexport_config_value"
 msgid "Enabled"
-msgstr "Activado"
+msgstr "Attivato"
 
 #v1.3.13
 msgctxt "autoexporting"
 msgid "Autoexporting..."
-msgstr "Auto exportando..."
+msgstr "Esportazione automatica..."
 
 #v1.1.31
 msgctxt "autosave_interval"
 msgid "Autosave interval:"
-msgstr "Intervalo de autoguarda:"
+msgstr "Salvataggio automatico:"
 
 #v1.1.31
 msgctxt "autosave_slots"
 msgid "Autosave slots:"
-msgstr "Total autoguardas:"
+msgstr "Slot di salvataggio:"
 
 #v1.1.31
 msgctxt "autosaving"
 msgid "Autosaving..."
-msgstr "Autoguarda..."
+msgstr "Autosalvataggio..."
 
 #v1.1.31
 msgctxt "back"
 msgid "Back"
-msgstr "Volver"
+msgstr "Indietro"
 
 #v1.7.15
 msgctxt "back_to_main_menu"
 msgid "Back to main menu"
-msgstr "volver a menú principal"
+msgstr "Torna al menu principale"
 
 #v1.1.31
 msgctxt "bad_angle"
 msgid "bad angle"
-msgstr "mal ángulo"
+msgstr "Cattiva angolazione"
 
 #v1.1.72
 msgctxt "balance"
 msgid "Balance"
-msgstr "Balance"
+msgstr "Bilancio"
 
 #v1.1.31
 msgctxt "banner_expain_ignore"
